@@ -5,9 +5,12 @@ This is a very compact portable case for a multi-bit screwdriver (in this case t
 This repo contains the STL files for the screwdriver case.
 
 # How do I assemble it?
+Print the main_body, outer_shell. No supports are required. Print as bit_trays and stoppers to take up the 12 slots in the main body.
 A small magnet needs to be placed and glued at the bottom of the outer shell. A 4mm hex bit should be press-fit into the bottom-center of the main body - this serves as the magnetic anchor for the screwdriver and outer shell.
 
 Some post-processing and sanding may be required on the bit tray pieces to swivel freely in their slots.
+
+Push the bit trays into their guiding rails until they're flush in the main body, then push them down to slide into their swivel position.
 
 # Photos
 <img width="630" height="1100" alt="image" src="https://github.com/user-attachments/assets/b711626a-9073-49ff-864b-94f5bf0d89b9" />
